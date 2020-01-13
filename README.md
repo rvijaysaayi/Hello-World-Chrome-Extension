@@ -1,1 +1,1 @@
-"# Hello-World-Chrome-Extension" 
+# Hello World Chrome Extension
